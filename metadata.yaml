@@ -1,0 +1,30 @@
+_repo: Reis-in-Nepal--13-De-Aarde-en-haar-Volken-1887_16102
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    alias: Bon, Gustave Le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2005-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16102'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Le Bon, Gustave, 1841-1931 -- Travel -- Nepal'
+- !lcc 'DS'
+- !lcsh 'Nepal -- Description and travel'
+title: "Reis in Nepal\r\nDe Aarde en haar Volken, 1887"
+url: http://www.gutenberg.org/ebooks/16102
